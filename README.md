@@ -1,16 +1,20 @@
-### Hi there 👋
+## 들어가는 말
+반갑습니다, 저는 강아영입니다👋 게임은 대중 매체 중에서도 조금 특별한 카테고리에 속한다고 생각합니다. 수많은 사람들이 연결되어 상호작용하는 매력적인 작업 현장에서 클라이언트 프로그래머로 활동하고자 노력하고 있습니다.
 
-<!--
-**river-zero/river-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 보유 기술
+- C++
+- DirectX 11
 
-Here are some ideas to get you started:
+## 학력
+- 2012. 02 ~ 2015. 02 경해여자고등학교
+- 2016. 03 ~ 2022. 02 경상대학교 기계공학전공
+ 
+## 작업한 프로젝트
+<div style="overflow-x: scroll; white-space: nowrap;">
+  <a href="https://github.com/river-zero/Memory_Game">
+    <img src="https://github.com/river-zero/Memory_Game/blob/main/memory.gif?raw=true" alt="짝 맞추기 게임" width="300" height="200" style="display: inline-block;">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 자격증
+- 2021. 11 정보처리기사
