@@ -14,6 +14,9 @@
   <a href="https://github.com/river-zero/Memory_Game">
     <img src="https://github.com/river-zero/Memory_Game/blob/main/memory.gif?raw=true" alt="짝 맞추기 게임" width="300" height="200" style="display: inline-block;">
   </a>
+ <a href="https://github.com/river-zero/Buggy_House">
+   <img src="https://raw.githubusercontent.com/river-zero/Buggy_House/main/buggy.gif" alt="벌레 없애기 게임" width="300" height="200" style="display: inline-block;">
+ </a>
 </div>
 
 ## 자격증
