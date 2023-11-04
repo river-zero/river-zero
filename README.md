@@ -12,7 +12,7 @@
 ## 작업한 프로젝트
 <div style="overflow-x: scroll; white-space: nowrap;">
   <a href="https://github.com/river-zero/Memory_Game">
-    <img src="https://github.com/river-zero/Memory_Game/blob/main/memory.gif?raw=true" alt="짝 맞추기 게임" width="280" height="200" style="display: inline-block;">
+    <img src="[https://github.com/river-zero/Memory_Game/blob/main/memory.gif?raw=true](https://github-production-user-asset-6210df.s3.amazonaws.com/124229424/280480769-6352014f-b96c-47ca-9569-8fccd9af334c.mp4)" alt="짝 맞추기 게임" width="280" height="200" style="display: inline-block;">
   </a>
  <a href="https://github.com/river-zero/Buggy_House">
    <img src="https://raw.githubusercontent.com/river-zero/Buggy_House/main/buggy.gif" alt="벌레 없애기 게임" width="280" height="200" style="display: inline-block;">
