@@ -15,8 +15,8 @@
   <a href="https://github.com/river-zero/Memory_Game">
     <img src="https://github.com/river-zero/Memory_Game/blob/e405aab4b6630a887ddbc2618e60742d812ec878/Memory_Game.gif" alt="짝 맞추기 게임" width="280" height="200" style="display: inline-block;">
   </a>
- <a href="https://github.com/river-zero/Buggy_House">
-   <img src="https://raw.githubusercontent.com/river-zero/Buggy_House/main/buggy.gif" alt="벌레 없애기 게임" width="280" height="200" style="display: inline-block;">
+ <a href="">
+   <img src="" alt="벌레 게임" width="280" height="200" style="display: inline-block;">
  </a>
 </div>
 
