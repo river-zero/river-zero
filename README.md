@@ -3,6 +3,7 @@
 
 ## 보유 기술
 - C++
+- GDI+
 - DirectX 11
 
 ## 학력
@@ -12,7 +13,7 @@
 ## 작업한 프로젝트
 <div style="overflow-x: scroll; white-space: nowrap;">
   <a href="https://github.com/river-zero/Memory_Game">
-    <img src="https://github.com/river-zero/Memory_Game/blob/e405aab4b6630a887ddbc2618e60742d812ec878/Memory_Game.gif" alt="짝 맞추기 게임" width="280" height="200" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/river-zero/Memory_Game/main/Memory_Game.gif" alt="짝 맞추기 게임" width="280" height="200" style="display: inline-block;">
   </a>
 </div>
 
