@@ -3,7 +3,6 @@
 
 ## 보유 기술
 - C++
-- DirectX 11
 - Unreal Engine 5
 
 ## 학력
