@@ -12,13 +12,13 @@
 ## 작업한 프로젝트
 <div style="overflow-x: scroll; white-space: nowrap;">
   <a href="https://github.com/river-zero/Memory_Game">
-    <img src="https://raw.githubusercontent.com/river-zero/Memory_Game/main/Memory_Game.gif" alt="짝 맞추기 게임" width="260" height="200" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/river-zero/Memory_Game/main/Memory_Game.gif" alt="짝 맞추기 게임" width="265" height="200" style="display: inline-block;">
   </a>
  <a href="https://github.com/river-zero/Bug_Game">
-    <img src="https://raw.githubusercontent.com/river-zero/Bug_Game/main/BugGame.gif" alt="벌레 게임" width="260" height="200" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/river-zero/Bug_Game/main/BugGame.gif" alt="벌레 게임" width="265" height="200" style="display: inline-block;">
   </a>
  <a href="https://github.com/river-zero/unRealPG">
-    <img src="https://github.com/river-zero/unRealPG/blob/c78eeb69678de5bbfa866ab9bd9d208625aeb77b/README/motionwarpoing.gif" alt="unRealRPG 게임" width="260" height="200" style="display: inline-block;">
+    <img src="https://github.com/river-zero/unRealPG/blob/c78eeb69678de5bbfa866ab9bd9d208625aeb77b/README/motionwarpoing.gif" alt="unRealRPG 게임" width="265" height="200" style="display: inline-block;">
   </a>
 </div>
 
