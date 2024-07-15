@@ -9,7 +9,7 @@
 - 2012년 02월 ~ 2015년 02월 경해여자고등학교
 - 2016년 03월 ~ 2022년 02월 경상대학교 기계공학전공
  
-## 작업한 프로젝트
+## 만든 게임
 <div style="overflow-x: scroll; white-space: nowrap;">
   <a href="https://github.com/river-zero/Memory_Game">
     <img src="https://raw.githubusercontent.com/river-zero/Memory_Game/main/Memory_Game.gif" alt="짝 맞추기 게임" width="270" height="200" style="display: inline-block;">
